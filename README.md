@@ -37,3 +37,8 @@ Used grid search to find the best parameters for Support Vector Machine using â€
 
 # Conclusion
 Life expectancy is more in developed countries and less in developing countries and using machine learning techniques we can correctly predict life expectancy. The places where there are immunization and less adult mortality the life expectancy is more.
+
+
+# References
+https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+https://matplotlib.org/
