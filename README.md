@@ -2,8 +2,11 @@
 # How to Predict Life Expectancy using Machine Learning
 You can find the link to the Medium Post here - https://medium.com/@nirankari.naveen.13et1136/how-to-predict-life-expectancy-using-machine-learning-5c253ab25125
 
-Udacity.ipynb consists of code wherein I have used regression techniques to predict life Expectancy
-Life_Expect.csv is the csv file
+# Udacity.ipynb consists of code wherein I have used regression techniques to predict life Expectancy. The steps which I have performed include
+### Data Preprocessing
+### Data Modeling
+### Fitting the Model
+# Life_Expect.csv is the csv file
 
 
 Life expectancy refers to the average age a person is estimated to live and is an important factor to determine the population health of any country. In the pre-modern world, Life expectancy was very less close to about 30 years but after 19th Century life expectancy started to increase and it nearly doubled. There has been constant debate regarding how developed countries have more life expectancy as compared to developing or underdeveloped countries and hence to get a clear picture of this I decided to analyze the Life Expectancy dataset which I took from Kaggle. All predicting variables was then divided into several broad categories:​Immunization related factors, Mortality factors, Economical factors and Social factors.
