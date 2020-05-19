@@ -41,4 +41,5 @@ Life expectancy is more in developed countries and less in developing countries 
 
 # References
 https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+
 https://matplotlib.org/
