@@ -1,6 +1,6 @@
 # Data-Science
 # How to Predict Life Expectancy using Machine Learning
-You can find the link to the Medium Post here - https://medium.com/@nirankari.naveen.13et1136/how-to-predict-life-expectancy-using-machine-learning-5c253ab25125
+### You can find the link to the Medium Post here - https://medium.com/@nirankari.naveen.13et1136/how-to-predict-life-expectancy-using-machine-learning-5c253ab25125
 
 ### Udacity.ipynb consists of code wherein I have used regression techniques to predict life Expectancy. The steps which I have performed include
 ### Data Understanding
